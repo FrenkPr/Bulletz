@@ -7,6 +7,7 @@ In this game we mainly applied:
 - groundable collisions;
 - bitmask collisions;
 - player jump and its physics;
+- draw layers (Background, Middleground, Playground, GUI, ......)
 - camera management and camera parallax.
 
 # Controls
